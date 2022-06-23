@@ -1,0 +1,15 @@
+C:\Users\GO\Desktop\bebra1\pract5\pract5\bin\Debug\net6.0\pract5.exe
+C:\Users\GO\Desktop\bebra1\pract5\pract5\bin\Debug\net6.0\pract5.deps.json
+C:\Users\GO\Desktop\bebra1\pract5\pract5\bin\Debug\net6.0\pract5.runtimeconfig.json
+C:\Users\GO\Desktop\bebra1\pract5\pract5\bin\Debug\net6.0\pract5.dll
+C:\Users\GO\Desktop\bebra1\pract5\pract5\bin\Debug\net6.0\ref\pract5.dll
+C:\Users\GO\Desktop\bebra1\pract5\pract5\bin\Debug\net6.0\pract5.pdb
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.csproj.AssemblyReference.cache
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.AssemblyInfoInputs.cache
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.AssemblyInfo.cs
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.csproj.CoreCompileInputs.cache
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.dll
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\ref\pract5.dll
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.pdb
+C:\Users\GO\Desktop\bebra1\pract5\pract5\obj\Debug\net6.0\pract5.genruntimeconfig.cache
